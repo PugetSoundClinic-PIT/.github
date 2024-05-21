@@ -5,6 +5,7 @@ If you want to get involved see this page 👉 for [open research opportunities]
 
 We are students and faculty at the University of Washington's Information School working on applied research in the public interest. 
 Our current research projects are focused on: 
+- 🤖 AI Alignment
 - 🦺 Labor Policy  
 - ⚖️ Civic Technology  
 - 🕸 The Web
