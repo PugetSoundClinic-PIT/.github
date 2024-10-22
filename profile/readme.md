@@ -1,7 +1,6 @@
-Welcome to the Puget Sound Clinic in Public Interest Technology!  
+Weber Lab
 
-If you want to get involved see this page 👉 for [open research opportunities](https://github.com/PugetSoundClinic-PIT/PugetSoundClinic-PIT.github.io/wiki) 🙌
-
+If you want to get involved see this page 👉 for [open research opportunities]() 🙌
 
 We are students and faculty at the University of Washington's Information School working on applied research in the public interest. 
 Our current research projects are focused broadly on computational social science, and specifically on: 
